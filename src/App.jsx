@@ -7,10 +7,8 @@ function App() {
     { id: 1, name: "Introduction to React", detail: "Learn about React basics and components." },
     { id: 2, name: "State and Props", detail: "Understand how state and props work in React." },
     { id: 3, name: "Hooks", detail: "Explore React hooks like useState and useEffect." },
-  ];
-
+  ]; 
   
-
   return (
     <div className="container">
       <header className="header">
@@ -39,5 +37,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
