@@ -9,6 +9,8 @@ function App() {
     { id: 3, name: "Hooks", detail: "Explore React hooks like useState and useEffect." },
   ];
 
+  
+
   return (
     <div className="container">
       <header className="header">
